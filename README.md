@@ -1,5 +1,5 @@
 # Hackpad
-Yo Boizzz , This Is A MACROPAD Named DevBoard X That Includes 6 Keys [Mechanical] with 4x EC11 Rotary Encoders And 1x OLED Diplay...
+Yo Guyss , This Is A MACROPAD Named DevBoard X That Includes 6 Keys [Mechanical] with 4x EC11 Rotary Encoders And 1x OLED Diplay...
 
 # FEATURES 
 1->> Full Of Functionable Keys 6 </n>
@@ -34,11 +34,11 @@ Yo Boizzz , This Is A MACROPAD Named DevBoard X That Includes 6 Keys [Mechanical
 
 | Component | Quantity | Specification | Unit Price | Total Price |
 
-| **PCB** | 5 | Custom macropad (5x4 matrix) | $5 with shipping | $5 with shipping 
-| **Switches** | 10 | Cherry MX | $5 with shipping | $5 with shipping
-| **MicroController** | 1 | rp2040 | $6 with shipping | $6 with shipping
-| **Rotary Encoder** | 2 | EC11 | $3 with shipping | $3 with shipping
-| **Oled Display** | 1 | I2C | $3 with shipping | $3 with shipping
+| **PCB** | 5 | Custom macropad (5x4 matrix) | $5 with shipping | $5 with shipping |
+| **Switches** | 10 | Cherry MX | $5 with shipping | $5 with shipping |
+| **MicroController** | 1 | rp2040 | $6 with shipping | $6 with shipping |
+| **Rotary Encoder** | 2 | EC11 | $3 with shipping | $3 with shipping |
+| **Oled Display** | 1 | I2C | $3 with shipping | $3 with shipping |
 
 
 ## JLCPCB
@@ -53,6 +53,6 @@ Yo Boizzz , This Is A MACROPAD Named DevBoard X That Includes 6 Keys [Mechanical
 
 **IDK WHY EVERYTHING IS SO EXPENSIVE IN INDIA**
 
-**Total Estimated Cost**: `$5 WITH SHIPPING CHARGES INCLUDED`
+**Total Estimated Cost**: `$22 WITH SHIPPING CHARGES INCLUDED`
 I'm only asking for pcb cost as you guys said.
 
