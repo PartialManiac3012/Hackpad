@@ -35,10 +35,17 @@ Yo Boizzz , This Is A MACROPAD Named DevBoard X That Includes 6 Keys [Mechanical
 | Component | Quantity | Specification | Unit Price | Total Price |
 
 | **PCB** | 5 | Custom macropad (5x4 matrix) | $5 with shipping | $5 with shipping 
+| **Switches** | 10 | Cherry MX | $5 with shipping | $5 with shipping
+| **MicroController** | 1 | rp2040 | $6 with shipping | $6 with shipping
+| **Rotary Encoder** | 2 | EC11 | $3 with shipping | $3 with shipping
+| **Oled Display** | 1 | I2C | $3 with shipping | $3 with shipping
 
 
 ## JLCPCB
 <img width="1881" height="954" alt="image" src="https://github.com/user-attachments/assets/62cabfa8-10d0-4c81-ba16-39f72b64990b" />
+<img width="1919" height="934" alt="image" src="https://github.com/user-attachments/assets/a866f2b6-48f4-44e6-850e-484b238b4817" />
+<img width="1919" height="936" alt="image" src="https://github.com/user-attachments/assets/7ca9de67-355a-4511-a906-d6a7daf82cce" />
+
 
 
 
