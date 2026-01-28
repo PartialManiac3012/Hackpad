@@ -33,7 +33,7 @@ Yo Guyss , This Is A MACROPAD Named DevBoard X That Includes 6 Keys [Mechanical]
 # 📋 Bill of Materials (BOM)
 
 | Component | Quantity | Specification | Unit Price | Total Price |
-
+|-----------|----------|---------------|------------|-------------|
 | **PCB** | 5 | Custom macropad (5x4 matrix) | $5 with shipping | $5 with shipping |
 | **Switches** | 10 | Cherry MX | $5 with shipping | $5 with shipping |
 | **MicroController** | 1 | rp2040 | $6 with shipping | $6 with shipping |
